@@ -1,6 +1,8 @@
 ### Hi there I'm Santiago👋
 
 - 🌱 I’m currently learning Software Engineering and Web Development
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I've never broken a bone in my life
 <!--
 **Sinlocu/Sinlocu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
